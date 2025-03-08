@@ -32,3 +32,4 @@
 "Commit The plain rots." 
 "Commit The hexagon stirs." 
 "Commit The day acteds." 
+"Commit The bitten explodes." 
